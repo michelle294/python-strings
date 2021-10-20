@@ -52,6 +52,8 @@ x = txt.index("welcome")
 
 print(x)
 
-
+tet= "this-is-a-string"
+print(tet.split("-"))
+#split the string between given parameter
 
 
